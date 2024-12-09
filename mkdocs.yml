@@ -1,0 +1,7 @@
+site_name: "Information Package Specification"
+site_author: "Stephan Lenartz, Michael Rahier"
+site_url: https://ulb.zivgitlabpages.uni-muenster.de/lzvnrw/team-konzeption/spec-information-package
+site_dir: public
+docs_dir: docs
+markdown_extensions:
+  - footnotes
