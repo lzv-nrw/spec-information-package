@@ -3,9 +3,9 @@
         "Source-Organization": "LZV.NRW",
         "External-Description": "BagIt Profile for Consistent Deposit to DCM",
         "Contact-Name": "https://www.lzv.nrw",
-        "BagIt-Profile-Identifier": "https://github.com/lzv-nrw/spec-information-package/raw/refs/tags/0.7.0/profiles/lzvnrw_bagit_profile.json",
+        "BagIt-Profile-Identifier": "https://github.com/lzv-nrw/spec-information-package/raw/refs/tags/0.7.1/profiles/lzvnrw_bagit_profile.json",
         "BagIt-Profile-Version": "1.4.0",
-        "Version": "0.7.0"
+        "Version": "0.7.1"
     },
     "Bag-Info": {
         "Bag-Software-Agent": {

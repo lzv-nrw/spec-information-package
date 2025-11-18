@@ -117,5 +117,3 @@ Vollständiges Beispiel:
 ## 4. BagIt-Profil (JSON)
 
 Damit Bag produzierende und Bag konsumierende Systeme sich auf eine BagIt Struktur verständigen können, wird ein BagIt Profil eingesetzt. Es handelt sich hierbei um eine separate JSON Datei, welche die festgelegten Anpassungen beschreibt und [hier](https://bagit-profiles.github.io/bagit-profiles-specification/) spezifiziert ist. In der Sektion „Bag-Info" sind in den „description" Feldern reguläre Ausdrücke hinterlegt, die zur Formatvalidierung von Values der bag-info.txt benötigt werden.
-
-Die in „BagIt-Profile-Identifier" eingetragene URL ist noch nicht gültig.
